@@ -1,0 +1,2 @@
+Ideias?
+precisamos achar a nossa estrutura, pra cria nossa typedef da struct
